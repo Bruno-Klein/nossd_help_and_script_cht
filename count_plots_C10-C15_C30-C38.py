@@ -1,5 +1,11 @@
 import os
 
+
+# By Bruno Klein
+# brunoklein@protonmail.com
+# A Python script to count how many plots in each level with a specific path, modify this path in the script before running: directory_to_scan = "/path/to/your/directory"
+# 一個Python腳本，用於統計特定路徑下每個層級中有多少個圖，運行前在腳本中修改此路徑：directory_to_scan = "/path/to/your/directory"
+
 # Specify the directory to scan
 # 指定掃描目錄
 directory_to_scan = "/path/to/your/directory"
